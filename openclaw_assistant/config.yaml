@@ -1,8 +1,7 @@
 name: OpenClaw Assistant
 version: "0.5.98"
 slug: openclaw_assistant
-description: "FORK mpiatkovskyi/OpenClawHA: OpenClaw Assistant with the OpenClaw version we choose."
-url: https://github.com/techartdev/OpenClawHomeAssistant
+description: Fork of OpenClaw Assistant
 arch:
   - amd64
   - aarch64
