@@ -1,7 +1,7 @@
 name: OpenClaw Assistant
 version: "0.5.98"
 slug: openclaw_assistant
-description: Run OpenClaw Assistant (OpenClaw-compatible) as a Home Assistant add-on.
+description: "FORK mpiatkovskyi/OpenClawHA: OpenClaw Assistant with the OpenClaw version we choose."
 url: https://github.com/techartdev/OpenClawHomeAssistant
 arch:
   - amd64
@@ -17,7 +17,7 @@ host_network: true
 # Home Assistant Ingress (UI inside the add-on page)
 ingress: true
 ingress_port: 48099
-panel_title: OpenClaw Assistant
+panel_title: OpenClaw (fork)
 panel_icon: mdi:robot
 
 # Liveness probe for the Supervisor: the ingress proxy (nginx) is the add-on's
